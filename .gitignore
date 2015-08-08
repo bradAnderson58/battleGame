@@ -101,7 +101,7 @@ ipch/
 
 ####################
 # Unreal Engine 4
-*.ini
+
 Binaries/
 Plugins/
 Plugins/*
@@ -114,8 +114,9 @@ Content/*
 !Plugins/TimeOfDay/Content
 !Plugins/TimeOfDay/Source
 DerivedDataCache/
-Intermediate/
+Intermediate
 Saved/
 *.sln
-*.sln
-*.sln
+*.ini
+*.ini
+battleGame/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
